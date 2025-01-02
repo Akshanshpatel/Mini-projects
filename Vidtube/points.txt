@@ -1,0 +1,6 @@
+Some Http response status code
+100-199 (Informational response)
+200-299 (Successful response)
+300-399 (Redirectional message)
+400-499 (Client error response)
+500-599 (Server error response)
